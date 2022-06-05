@@ -12,6 +12,8 @@
     <a href="https://www.linkedin.com/in/fatihsenturkk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amustafaozkayam" alt="amustafaozkayam" /> </p>
+<br>
 <div align="left">
     <img height="220em" width="800em" src="https://github-readme-stats.vercel.app/api?username=fatisenko35&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="220em" width="800em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatisenko35&layout=compact&langs_count=7&theme=dracula"/>
