@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on Full Stack Development as a Software Developer 
 - I have strong experience of React JS | Next JS | JavaScript | Node JS | HTML5/CSS3| SCSS/SASS | Bootstrap5 | Python | Linux | Django | SQL | APIs | Agile | Jira | SDLC | OOP
-- 
 ### 📩 Contact with me:
 
 <div style="text-align: center"> 
